@@ -7,7 +7,7 @@
 ![alt text](results/comparison.png)
 
 
-### ROC for ML ALgorithms
+## ROC for ML ALgorithms
 
 ![alt text](results/roc-ml.png)
 
